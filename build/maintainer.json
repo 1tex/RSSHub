@@ -1046,6 +1046,9 @@
     "/gov/moj/aac/news/:type?": [
         "TonyRL"
     ],
+    "/gov/nifdc/:path+": [
+        "nczitzk"
+    ],
     "/gov/nmpa/:path+": [
         "TonyRL"
     ],
@@ -2601,6 +2604,9 @@
     ],
     "/tisi/latest": [
         "Fatpandac"
+    ],
+    "/tju/cic/:type?": [
+        "SuperPung"
     ],
     "/tju/oaa/:type?": [
         "AmosChenYQ",
